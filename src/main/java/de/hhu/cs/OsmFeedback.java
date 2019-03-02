@@ -1,9 +1,10 @@
-package de.hhu.cs;/* Copyright 2018 Sebastian Meyer (seibushin.de)
+/* Copyright 2018 Sebastian Meyer (seibushin.de)
  *
  * NO LICENSE
  * YOU MAY NOT REPRODUCE, DISTRIBUTE, OR CREATE DERIVATIVE WORKS FROM MY WORK
  *
  */
+package de.hhu.cs;
 
 import de.hhu.cs.firebase.Feedback;
 import de.hhu.cs.firebase.FeedbackHandler;
